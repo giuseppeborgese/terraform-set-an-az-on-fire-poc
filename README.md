@@ -5,4 +5,4 @@ I don't want to really set on fire an AWS datacenter, but I would like to perfor
 
 Complete article with all instructions and explanations at this link
 \
-![schema](https://raw.githubusercontent.com/giuseppeborgese/terraform-set-an-az-on-fire-poc/master/diagram.jpg)
+![schema](https://raw.githubusercontent.com/giuseppeborgese/terraform-set-an-az-on-fire-poc/master/diagram.png)
