@@ -3,7 +3,7 @@
 I don't want to really set on fire an AWS datacenter, but I would like to perform a test to know if my application is resilient to a huge disaster event like a down of a single Availability Zone (from now on called AZ) in AWS.
 
 
-Complete article with all instructions and explanations in this [linkedin article](https://www.linkedin.com/in/giuseppe-borgese-64181a7/)
+Complete article with all instructions and explanations in this [linkedin article](https://www.linkedin.com/pulse/set-fire-aws-availability-zone-giuseppe-borgese)
 
 at this link
 
